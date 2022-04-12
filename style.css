@@ -250,11 +250,6 @@ h4 {
 }
 
 
-.map {
-    display: flex;
-}
-
-
 .footer__contacts {
     display: flex;
     justify-content: space-between;
@@ -631,4 +626,8 @@ li {
     color: #ffffff;
     text-transform: uppercase;
     border: none;
+}
+
+.map {
+    display: flex;
 }
