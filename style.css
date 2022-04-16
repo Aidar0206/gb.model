@@ -477,7 +477,10 @@ li {
 
     .footer__heading {
         text-align: center;
+        margin: 0 auto;
+        margin-bottom: 32px;
     }
+
 
     .footer__content {
         padding: 0;
@@ -511,6 +514,7 @@ li {
 li {
     margin-bottom: 17px;
 }
+
 
 .footer__rights {
     text-align: center;
