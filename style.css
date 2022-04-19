@@ -511,11 +511,20 @@ li {
     }
 
     .content__con {
-        flex-wrap: wrap;
         flex-direction: column;
     }
+
+    .contact__message {
+        padding: 0;
+        min-width: 420px;
+        align-items: center;
+    }
+
+    .contactus {
+        padding: 48px 0;
+    }
 }
-}
+
 
 li {
     margin-bottom: 17px;
